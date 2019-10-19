@@ -1,7 +1,7 @@
 import React from 'react';
 import './form-input.scss';
 
-const formInput = props => {
+const FormInput = props => {
 
   return (
     <div className='group'>
@@ -24,4 +24,4 @@ const formInput = props => {
   );
 };
 
-export default formInput;
+export default FormInput;
